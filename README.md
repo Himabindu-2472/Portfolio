@@ -1,5 +1,5 @@
 # Portfolio
-# Portfolio Link :https://ragulakarthik.github.io/Portfolio//index.html
+# Portfolio Link :https://himabindu-2472.github.io/Portfolio/
 :star: Star me on GitHub — it helps!
 
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/hima-bindhu2472/)
